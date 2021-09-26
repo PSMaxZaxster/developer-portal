@@ -12,7 +12,7 @@ Built around ‘Active Campaigns’, the Project Catalyst Ideascale contains sev
 
 Within each active campaign, you can find a campaign brief. This is a short explainer of what proposals should include, how to meet the campaign's requirements and some guiding questions for proposals. You will also find a stage flow that guides you through the timeline of each campaign.
 
-If you click on ‘Browse Ideas’, you can see a [list of other proposals](https://cardano.ideascale.com/a/ideas/recent/campaign-filter/byids/campaigns/25873/stage/unspecified) that community members have already created. If you’re thinking of submitting a proposal, this is a great way to see what goes into a successful proposal and how you can position your proposal for maximum traction. For voters and community participants, this is also where you can join discussions or upvote your favourite proposal.
+If you click on ‘Browse Ideas’, you can see a [list of other proposals](https://cardano.ideascale.com/a/ideas/recent/campaign-filter/byids/campaigns/25873/stage/unspecified) that community members have already created. If you’re thinking of submitting a one, this is a great way to see what goes into a successful proposal and how you can position your proposal for maximum traction. For voters and community participants, this is also where you can join discussions or upvote your favourite proposal.
 
 :::tip Catalyst Announcements
 The best way to keep up to date with Project Catalyst is to follow [the announcement channel on Telegram](https://t.me/cardanocatalyst). 
@@ -39,6 +39,7 @@ Download the Catalyst voting app in the [Apple Store](https://apps.apple.com/kg/
 
 ## Previous Project Catalyst voting results 
 
+* [Project Catalyst Fund 5 Voting Results](https://drive.google.com/file/d/1h3-nZYZ0G66UXVd-JdIq_dpXSJAaVOZk/view)
 * [Project Catalyst Fund 4 Voting Results](https://drive.google.com/file/d/19VMTYn_sv5Xsp2mC5VUN_-z_aXYHL_Dd/view)
 * [Project Catalyst Fund 3 Voting Results](https://drive.google.com/file/d/1X6BnuFBvNO8yF2DeUgBqA3yyYSvqeKvg/view)
 * [Project Catalyst Fund 2 Voting Results](https://drive.google.com/file/d/1ZEM12Mbc-gkdNrTg03-ORbGg3DUpug8A/view)
